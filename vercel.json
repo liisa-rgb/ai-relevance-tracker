@@ -1,0 +1,4 @@
+{
+  "name": "where-does-your-time-go-tracker",
+  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+}
